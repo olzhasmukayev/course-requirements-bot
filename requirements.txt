@@ -1,0 +1,4 @@
+pdfplumber
+python-telegram-bot
+redis
+python-dotenv
